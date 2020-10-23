@@ -1,0 +1,25 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvertechguy/node-docker.git"
+  },
+  "author": "Ali Fadda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/silvertechguy/node-docker/issues"
+  },
+  "homepage": "https://github.com/silvertechguy/node-docker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
